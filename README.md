@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer with a passion for technology and creating innovative solutions. Here you'll find some of the projects I've been working on.
 
-![Profile Banner](https://your-profile-banner-url.com/banner.jpg)
+![Profile Banner](https://github.com/JonathanAristizabalSoto)
 
 ## 🚀 About Me
 
@@ -20,10 +20,20 @@ I'm a developer with knowledge in HTML, CSS, JavaScript, PHP, Laravel, MySQL, an
 
 ## 💼 Professional Experience
 
-**2024 | Santiago, Chile**  
+**2024 | Manizales, Colombia**  
 **PC Factory Co | Web Developer**
-- Developing web pages for the company and personal projects.
-- Utilizing office tools and design software including Adobe, Figma, Excel, and Word.
+- Responsible for designing, developing, and maintaining web pages for both the company and personal projects, ensuring high performance and responsiveness.
+- Collaborating with cross-functional teams to define, design, and ship new features.
+- Utilizing a broad range of office tools and design software to enhance productivity and design quality, including:
+  - **Programming Languages:** HTML, CSS, JavaScript, PHP
+  - **Frameworks and Libraries:** Laravel
+  - **Design Software:** Adobe Creative Suite, Figma
+  - **Office Tools:** Excel, Word
+- Implementing responsive design principles to ensure seamless user experiences across various devices.
+- Continuously improving and refactoring code to enhance performance, security, and maintainability.
+- Conducting thorough testing and debugging to ensure the highest quality of delivered projects.
+- Staying updated with the latest industry trends and technologies to incorporate best practices into development processes.
+
 
 **2017 – 2021 | Santiago, Chile**  
 **IFCO (Quality Control)**
