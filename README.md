@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jonathan Aristizábal Soto
+# 👋 Hi there, I'm Jonathan Robinson Aristizabal Soto
 
 Welcome to my GitHub profile! I'm a software developer with a passion for technology and creating innovative solutions. Here you'll find some of the projects I've been working on.
 
